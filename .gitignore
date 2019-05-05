@@ -1,1 +1,10 @@
 .vscode
+#.cache
+#.config
+#.ipython
+#.jupyter
+#.local
+#.bash_logout
+#.bashrc
+#s.profile
+**/.ipynb_checkpoints

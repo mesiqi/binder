@@ -11,7 +11,7 @@
   "bucket_name": "test-bucket",
   "datasets": {},
   "id": "nav_opendata/arbeidsforhold",
-  "license": "#Arbeidsforhold",
+  "license": "\n#Arbeidsforhold\n",
   "readme": null,
   "resources": [],
   "title": "Arbeidsforhold",

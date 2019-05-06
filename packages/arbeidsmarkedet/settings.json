@@ -1,0 +1,14 @@
+{
+    "package_name": "bindertest",
+    "index_connections": {
+    "elastic_host": "https://nav-datalab.appspot.com/index",
+    "index": "odata",
+    "token": ""
+  },
+  "bucket_storage_connections": {
+    "google_cloud": {
+        "publish": "True",
+        "bucket": "mesiqi"
+    }
+  }
+}

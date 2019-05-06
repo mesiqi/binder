@@ -1,7 +1,7 @@
 {
   "Author": "NAV",
   "Keywords": [
-    "n\u00f8kkeltall, arbeidsmarkedet"
+    "n\u00f8kkeltall, arbeidsforhold"
   ],
   "License": "MIT",
   "Package": "arbeidsforhold",
@@ -15,7 +15,7 @@
   "readme": null,
   "resources": [],
   "title": "Arbeidsforhold",
-  "updated": "2019-05-05",
+  "updated": "2019-05-06",
   "version": "0.0.1",
   "views": []
 }
